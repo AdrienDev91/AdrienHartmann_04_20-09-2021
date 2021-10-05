@@ -675,10 +675,6 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
-}
-
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -706,6 +702,8 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    width: 70%;
+    margin: auto;
 }
 
 h3 {
