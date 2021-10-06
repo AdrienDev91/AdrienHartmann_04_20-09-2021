@@ -651,7 +651,7 @@ label,
 p {
     font-family: helvetica;
     font-weight: 400;
-    color: #8E5D68;
+    color: #8e5d68;
 }
 
 .container {
@@ -774,6 +774,7 @@ h4 {
 
 .tc-white {
     color: #fff;
+    position: relative;
 }
 
 .btn-atomic-tangerine {
